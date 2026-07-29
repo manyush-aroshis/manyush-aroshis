@@ -1,4 +1,46 @@
-## Hi there 👋
+# Hi 👋 I'm Manyush Aroshis
+
+🎓 B.Tech Computer Science Engineering Student
+
+---
+
+## 🚀 Currently Learning
+
+- Python
+- C++
+- Data Structures & Algorithms
+- HTML, CSS & JavaScript
+- Git & GitHub
+
+---
+
+## 💻 Tech Stack
+
+- Python
+- C++
+- HTML
+- CSS
+- JavaScript
+- Git
+
+---
+
+## 🎯 Goals
+
+- Build quality projects
+- Improve problem-solving skills
+- Learn Full Stack Development
+- Contribute to Open Source
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: github.com/manyush-aroshis
+
+---
+
+⭐ Learning something new every day.
 
 <!--
 **manyush-aroshis/manyush-aroshis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
