@@ -25,8 +25,6 @@
 
 ---
 
-## 🎯 Goals
-
 ## 🎯 2026 Goals
 
 - Learn Python thoroughly
